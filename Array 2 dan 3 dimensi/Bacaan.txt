@@ -1,0 +1,1 @@
+mengoperasikan array dimensi 2 dan 3, (sangat dasar)
